@@ -1,0 +1,6 @@
+after implementation: 
+run code, executed---
+go to terminal :
+  write command : python -m streamlit run main.py
+  take it to default browser.
+  input & predict 
